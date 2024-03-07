@@ -4,6 +4,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+// changes in many functions needed
 (function() {
   "use strict";
 
